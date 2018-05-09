@@ -1,3 +1,7 @@
+The constant forking and modifying is one of the reasons I stopped using metalsmith.
+
+---
+
 # metalsmith-in-place
 
 [![npm version][version-badge]][version-url]
